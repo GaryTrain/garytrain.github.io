@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\tianyuangoTransp.png" group-title="通用",天元围棋
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\.png" group-title="电影",电影(4k)
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\huaShuMovie.png" group-title="电影",华数影院(4K)
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\huaShuTheater.png" group-title="电影",华数精品剧场
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\huaShuWesternMovie.png" group-title="电影",华数欧美电影
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\huaShuAsianMovie.png" group-title="电影",华数亚洲电影
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ihotWar.png" group-title="电影",I谍战
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\NewTVForeign.png" group-title="电影",海外剧场
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ebcForeignFilmTransp.png" group-title="电影",东森影视(EBC Foreign Movie)
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\cinemaxTransp.png" group-title="电影",影院电影(CINEMAX)
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\hboTransp.png" group-title="电影",家庭影院(HBO) 
+http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\hboFamilyTransp.png" group-title="电影",家庭影院综合(HBO Family)
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853 
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\CHCActionFilmTransp.png" group-title="电影",动作电影(CHC Action)
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\chcFamilyFilmTransp.png" group-title="电影",综合电影(CHC Family)
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\chcHDTransp.png" group-title="电影",高清(CHC HD)
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\dianZhangFinance.png" group-title="财经",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\newTVSportsPlus.png" group-title="体育",超级体育
+http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\newTVSports.png" group-title="体育",精品体育(4M)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000021/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3  
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ihotSports.png" group-title="体育",I体育
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\videolandSports.png" group-title="体育",未来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\boSiSports.png" group-title="体育",博斯魅力
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\edgeSports.png" group-title="体育",边界运动
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\redBull.png" group-title="体育",红牛(720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\elevenSportsTransp.png" group-title="体育",十一
+http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\dubaiSports.png" group-title="体育",迪拜竞赛一套
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\dubaiRacing.png" group-title="体育",迪拜竞赛二套
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\townFilmTransp.png" group-title="电影",都市剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\comedyTransp.png" group-title="电影",欢笑剧场(4k)
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\NewTVSeries.png" group-title="电影",超级电视剧(8M 易视腾)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\NewTVMovie.png" group-title="电影",超级电影(4M 易视腾一)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3  
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\newTVAncient.png" group-title="电影",古装剧场(4M bblive)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3  
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\newTVCommedy.png" group-title="电影",欢乐剧场(4M 易视腾)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3  
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\NewTVFilm.png" group-title="电影",家庭剧场(4M 易视腾)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\NewTVHorro.png" group-title="电影",惊悚悬疑(4M 易视腾)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3  
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\newTVShow.png" group-title="电影",精品大剧(4M bblive)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000020/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3  
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\NewTVWarMovie.png" group-title="电影",军旅剧场(4M bblive)
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3\[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3  
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\matvFilmTransp.png" group-title="电影",美亚电影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\lsTimeTransp.png" group-title="电影",龙祥电影
+http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\longHuaMovieTransp.png" group-title="电影",龙华电影
+http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ebcMovieTransp.png" group-title="电影",东森电影(EBC Movie) 
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ihotTheater.png" group-title="电影",I院线
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ihotComedy.png" group-title="电影",I喜剧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ihotMystery.png" group-title="电影",I悬疑
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ihotClassic.png" group-title="电影",I经典
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ihotFiction.png" group-title="电影",I奇谈
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\ihotAncient.png" group-title="电影",I怀旧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\blackBerryMovie.png" group-title="电影",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\hotShow.png" group-title="电影",热播剧场
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\discoveryAsiaTransp.png" group-title="通用",求索亚洲
+http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\discovery.png" group-title="通用",求索记录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\discoveryScienceTransp.png" group-title="通用",求索科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\discoveryLife.png" group-title="通用",求索动物
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\discoveryCivilization.png" group-title="通用",求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\loveNature.png" group-title="通用",大自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\animalPlanet.png" group-title="通用",动物星球
+http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\goldenEagleDocumentaryTransp.png" group-title="通用",金鹰纪实
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/index.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\individualDocumentaryTransp.png" group-title="通用",纪实人文
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\brics.png" group-title="通用",金砖(TV BRICS Chinese)
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\eyeTV.png" group-title="通用",眼视综合(EYETV)
+http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\eyeTravelTransp.png" group-title="通用",眼视旅游(EYETV Travel)
+http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+#EXTINF:-1 tvg-logo="special://home/media\LOGO\travelTransp.png" group-title="通用",乐游
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
