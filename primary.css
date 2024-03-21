@@ -12,6 +12,11 @@ img
     max-width: 100%;
     height: auto;
 }
+.imgwrapper
+{
+    max-width: 1920px;
+    margin: 1em 0;
+}
 .wrapper
 {
     max-width: 1920px;
