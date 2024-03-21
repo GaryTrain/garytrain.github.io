@@ -7,6 +7,11 @@ body
 } 
 /* This is the lighter sepia background */  
 /* body {background:#FFF8DC; color:#000000;} */
+img
+{
+    max-width: 100%;
+    height: auto;
+}
 .wrapper
 {
     max-width: 1920px;
