@@ -24,7 +24,7 @@ http://[2409:8087:7001:20:1000::95]:80/000000001000/6000000006000070630/index.m3
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NewTVForeign.png",海外剧场
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcForeignFilmTransp.png",东森影视(EBC Foreign Movie)
-https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+http://startv365.com:80/live/9794783213/6955630461/5534.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cinemaxTransp.png",影院电影(CINEMAX)
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/hboTransp.png",家庭影院(HBO) 
@@ -58,13 +58,15 @@ http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NewTVWarMovie.png",军旅剧场
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/matvFilmTransp.png",美亚电影
-http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+http://startv365.com:80/live/9794783213/6955630461/5511.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/lsTimeTransp.png",龙祥电影
-http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+http://startv365.com:80/live/9794783213/6955630461/5513.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/longHuaMovieTransp.png",龙华电影
 http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcMovieTransp.png",东森电影(EBC Movie) 
-http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+http://startv365.com:80/live/9794783213/6955630461/5537.m3u8
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/hollywood.png",香港好莱坞电影台
+http://startv365.com:80/live/9794783213/6955630461/5526.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ihotTheater.png",I院线
 http://[2409:8087:7000:20:1000::22]:80/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ihotComedy.png",I喜剧
@@ -118,7 +120,7 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjb
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/goldenEagleDocumentaryTransp.png",金鹰纪实
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/individualDocumentaryTransp.png",纪实人文
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/brics.png",金砖(TV BRICS Chinese)
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/eyeTV.png",眼视综合(EYETV)
