@@ -9,8 +9,6 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/dianZhangFinance.png",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NewTVForeign.png",海外剧场
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcForeignFilmTransp.png",东森影视(EBC Foreign Movie)
 http://startv365.com:80/live/9794783213/6955630461/5534.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cinemaxTransp.png",影院电影(CINEMAX)
@@ -21,7 +19,7 @@ http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=7
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/chcFamilyFilmTransp.png",综合电影(CHC Family)
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/chcHDTransp.png",高清(CHC HD)
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/chcHDTransp.png",高清电影(CHC HD)
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/townFilmTransp.png",都市剧场
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
@@ -59,8 +57,6 @@ http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/newTVSports.png",精品体育
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ihotSports.png",I体育
-http://[2409:8087:7001:20:1000::95]:80/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/videolandSports.png",未来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/boSiSports.png",博斯魅力
@@ -69,7 +65,7 @@ http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&c
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/redBull.png",红牛(720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/elevenSportsTransp.png",十一
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/elevenSportsTransp.png",十一体育
 http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/dubaiSports.png",迪拜竞赛一套
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
@@ -80,16 +76,12 @@ http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/loveNature.png",大自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/animalPlanet.png",动物星球
-http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/goldenEagleDocumentaryTransp.png",金鹰纪实
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/index.m3u8
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/individualDocumentaryTransp.png",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/brics.png",金砖(TV BRICS Chinese)
-https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/eyeTV.png",眼视综合(EYETV)
-http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/eyeTravelTransp.png",眼视旅游(EYETV Travel)
 http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/travelTransp.png",乐游
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
+http://[2409:8087:5e08:24::6]:6610/000000001000/5000000011000031112/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=bestzb&Contentid=5000000011000031112&IASHttpSessionId=OTT2284820240414160458001436
