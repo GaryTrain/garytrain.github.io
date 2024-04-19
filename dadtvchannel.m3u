@@ -28,7 +28,7 @@ http://startv365.com:80/live/9794783213/6955630461/5534.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cinemaxTransp.png",影院电影(CINEMAX)
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/hboTransp.png",家庭影院(HBO) 
-http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB742580742580&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/hboFamilyTransp.png",家庭影院综合(HBO Family)
 http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853 
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/CHCActionFilmTransp.png",动作电影(CHC Action)
