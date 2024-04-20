@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tiyuango.png",天元围棋
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tianYuango.png",天元围棋
 https://025365.xyz:8082/cqyx2.php?id=tywq
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvFiveTransp.png",CCTV5
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -19,7 +19,7 @@ http://startv365.com:80/live/9794783213/6955630461/5513.m3u8
 http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcMovieTransp.png",东森电影(EBC Movie) 
 http://startv365.com:80/live/9794783213/6955630461/5537.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/hollywood.png",香港好莱坞电影台
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/HKHollywood.png",香港好莱坞电影台
 http://startv365.com:80/live/9794783213/6955630461/5526.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/blackBerryMovie.png",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
