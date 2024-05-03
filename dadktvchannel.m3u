@@ -71,7 +71,7 @@ http://171.108.239.52:8181/tsfile/live/1016_1.m3u8
 http://171.108.239.52:8181/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcMovieTransp.png",东森电影(EBC Movie) 
 http://171.108.239.52:8181/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-logo="",天映电影
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tianyingMovieTransp.png",天映电影
 http://171.108.239.52:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/discoveryAsiaTransp.png",求索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
