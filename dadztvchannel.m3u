@@ -11,7 +11,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvOneTransp.png",CCTV1
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/calligraphy.png",书画频道
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/calligraphyTransp.png",书画频道
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/newTVSportsPlus.png",超级体育
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -73,9 +73,9 @@ http://171.108.239.52:8181/tsfile/live/1023_1.m3u8
 http://171.108.239.52:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-logo="",天映电影
 http://171.108.239.52:8181/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/PhxChinese.png",凤凰中文
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixChineseTransp.png",凤凰中文
 http://222.217.243.135:8181/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/PhoenixNews.png",凤凰卫视咨询
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixInfoNewsTransp.png",凤凰卫视咨询
 http://222.217.243.135:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/discoveryAsiaTransp.png",求索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
@@ -97,11 +97,11 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/in
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/travelTransp.png",乐游
 http://113.9.150.118:88/hls/114/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/individualDocumentaryTransp.png",河南新闻
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/heNanNews.png",河南新闻
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41105/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/individualDocumentaryTransp.png",河南卫视
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/henanDishTransp.png",河南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/individualDocumentaryTransp.png",郑州新闻
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/zhengzhouNews.jpg",郑州新闻
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/individualDocumentaryTransp.png",开封新闻
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/kaifengNews.jpg",开封新闻
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41114/index.m3u8
