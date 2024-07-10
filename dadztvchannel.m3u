@@ -3,8 +3,6 @@
 http://58.248.112.205:8006/GD_CUCC/G_TIANYUANWQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNShOv%2BYcLGXjIDOSPvEdjQHDuYwlgVQRJywFuY0ZU%2FVm
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tianyuangoTransp.png",天元围棋二
 http://bxny.667789.cn:88/hls/128/index.m3u8
-#EXTINF:-1 tvg-logo="",天元围棋三
-http://113.9.150.118:88/hls/128/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvFiveTransp.png",CCTV5
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvFivePlusTransp.png",CCTV5+
