@@ -1,0 +1,409 @@
+#EXTM3U
+#EXTINF:-1 group-title="通用",大自然(4k)
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="电影",欢笑剧场(4k)
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV(8k)
+http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+#EXTINF:-1 group-title="大众",CCTV(4k)
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="大众",CCTV16(4k)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="电影",电影(4k)
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 group-title="通用",苏州卫视(4k)
+http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="通用",动物星球
+http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
+#EXTINF:-1 group-title="通用",探索(Discovery Asia)
+http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+#EXTINF:-1 group-title="通用",凤凰中文  
+http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
+#EXTINF:-1 group-title="新闻",凤凰资讯  
+http://lhq-cctv.8866.org:18181/tsfile/live/1221_1.m3u8
+#EXTINF:-1 group-title="体育",边界运动
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="通用",眼视综合(EYETV)
+http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+#EXTINF:-1 group-title="通用",眼视旅游(EYETV Travel)
+http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1 group-title="大众",CCTV1移动传媒
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8  
+#EXTINF:-1 group-title="通用",TVBS欢乐台
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1 group-title="通用",Toonmax
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 group-title="通用",Xing Kong International
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1 group-title="通用",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="通用",香港卫视文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 group-title="电影",美亚电影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 group-title="电影",龙祥电影
+http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1 group-title="电影",龙华电影
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 group-title="电影",东森影视(EBC Foreign Movie)
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 group-title="电影",东森电影(EBC Movie) 
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 group-title="电影",影院电影(CINEMAX)
+http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+#EXTINF:-1 group-title="电影",家庭影院(HBO) 
+http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 group-title="电影",家庭影院综合(HBO Family)
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853 
+#EXTINF:-1 group-title="电影",动作电影(CHC Action)
+http://117.174.81.63:50080/newlive/live/hls/48/live.m3u8
+#EXTINF:-1 group-title="电影",综合电影(CHC)
+http://117.174.81.63:50080/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 group-title="大众",CCTV+ 1 [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="大众",CCTV+ 2 [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="大众",CCTV-1 
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-4 
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-4 
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="电影",CCTV-6
+http://222.189.51.62:8888/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="大众",CCTV-7
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-9
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-10
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-14
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-15
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV-16
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="大众",CCTV第一剧场
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大众",CCTV世界地理
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大众",CCTV风云剧场
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大众",CCTV风云音乐
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大众",CCTV女性时尚
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大众",CCTV文化精品
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大众",CCTV电视指南
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大众",河南卫视
+http://222.189.51.62:8888/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 group-title="大众",河南济源一套
+http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+#EXTINF:-1 group-title="大众",河南兰考
+http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+#EXTINF:-1 group-title="大众",CCTV1移动传媒
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+#EXTINF:-1 group-title="街道",街道一
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 group-title="街道",街道二
+https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
+#EXTINF:-1 group-title="街道",北京鸟巢和水立方
+https://gctxyc.liveplay.myqcloud.com/gc/glxs01_1_md.m3u8
+#EXTINF:-1 group-title="街道",北京昌平居庸关长城
+https://gctxyc.liveplay.myqcloud.com/gc/syns01_1_md.m3u8
+#EXTINF:-1 group-title="街道",北京司马台长城
+https://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
+#EXTINF:-1 group-title="街道",北京古北水镇
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="街道",北京黄花城水长城一
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 group-title="街道",北京黄花城水长城二
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="街道",上海南浦大桥
+https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 group-title="街道",哈尔滨霁虹桥
+https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1_md.m3u8
+#EXTINF:-1 group-title="街道",哈尔滨圣索菲亚大教堂
+https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
+#EXTINF:-1 group-title="街道",哈尔滨湘江公园
+https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 group-title="街道",沈阳浑河桥
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="街道",吉林市临江门大桥一
+https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 group-title="街道",吉林市临江门大桥一
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="街道",天津滨海新区
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="街道",承德金山岭长城
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="街道",承德避暑山庄龙泉公园
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 group-title="街道",承德七彩森林景区
+https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
+#EXTINF:-1 group-title="街道",承德赛罕坝
+https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
+#EXTINF:-1 group-title="街道",张家口沽源库伦淖尔度假区
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 group-title="街道",敦煌月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="街道",嘉峪关
+https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 group-title="街道",张掖七彩丹霞景区
+https://gcalic.v.myalicdn.com/gc/lsdftyd_1/index.m3u8
+#EXTINF:-1 group-title="街道",呼伦贝尔哈萨尔大桥一
+https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1_md.m3u8
+#EXTINF:-1 group-title="街道",呼伦贝尔哈萨尔大桥二
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 group-title="街道",中卫沙坡头
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 group-title="街道",西安大唐不夜城
+https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 group-title="街道",西安大雁塔
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 group-title="街道",西安钟楼
+https://gctxyc.liveplay.myqcloud.com/gc/sxzl_1_md.m3u8
+#EXTINF:-1 group-title="街道",西安樊川
+https://gcalic.v.myalicdn.com/gc/cntv506-zbzg_1/index.m3u8
+#EXTINF:-1 goup-title="街道",西安阎良关山石川河风景区
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 group-title="街道",西安蓝田县白鹿原
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+#EXTINF:-1 group-title="街道",西安长安三河水库
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 group-title="街道",延安宝塔山
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="街道",榆林神木市大柳塔镇
+https://gcalic.v.myalicdn.com/gc/zsslsfwsgz_1/index.m3u8
+#EXTINF:-1 group-title="街道",汉中朱鹮自然保护区
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="街道",汉中宁强县青木川古镇
+https://gcalic.v.myalicdn.com/gc/cntv406-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="街道",安康凤堰古梯田
+https://gcalic.v.myalicdn.com/gc/cntv407-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="街道",黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="街道",黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="街道",黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="街道",南京长江大桥
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="街道",南京鼓楼广场
+https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 group-title="街道",南京紫峰大厦
+https://gcalic.v.myalicdn.com/gc/hkts05_1/index.m3u8
+#EXTINF:-1 group-title="街道",南京玄武湖公园一
+https://gctxyc.liveplay.myqcloud.com/gc/xwh01_1_md.m3u8
+#EXTINF:-1 group-title="街道",南京玄武湖公园二
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 group-title="街道",徐州之夜
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 group-title="街道",扬州中国大运河博物馆
+https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 group-title="街道",无锡惠山二茅峰
+https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 group-title="街道",盐城大丰麋鹿
+https://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+#EXTINF:-1 group-title="街道",南通启东圆陀角
+https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 group-title="街道",杭州奥体中心
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="街道",杭州钱江新城
+https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
+#EXTINF:-1 group-title="街道",杭州千岛湖
+https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 group-title="街道",台州三门核电站
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 group-title="街道",舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="街道",乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 group-title="街道",乌镇蓝印花布
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="街道",乌镇白莲塔
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="街道",乌镇西市河
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 group-title="街道",绍兴嵊州西景山
+https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
+#EXTINF:-1 group-title="街道",福州罗源县吉壁码头
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 group-title="街道",南平松溪茶平乡万亩茶园
+https://gcalic.v.myalicdn.com/gc/cntv401-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="街道",三明永安上坪乡天斗山居
+https://gcalic.v.myalicdn.com/gc/hkts01_1/index.m3u8
+#EXTINF:-1 group-title="街道",福安赛岐镇象环葡萄园
+https://gcalic.v.myalicdn.com/gc/cntv402-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="街道",漳州官畲景区
+https://gcalic.v.myalicdn.com/gc/cntv400-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="街道",南昌滕王阁一
+https://gctxyc.liveplay.myqcloud.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 group-title="街道",南昌滕王阁二
+https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 group-title="街道",潍坊安丘市青云山民俗游乐园
+https://gctxyc.liveplay.myqcloud.com/gc/cntv399-zbzg_1_md.m3u8
+#EXTINF:-1 group-title="街道",济宁泗水龙湾湖乡村振兴示范区
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 group-title="街道",济南七星天文台
+https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+#EXTINF:-1 group-title="街道",青岛艾山天文台
+https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 group-title="街道",济南大明湖超然楼
+https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 group-title="街道",济南趵突泉
+https://gctxyc.liveplay.myqcloud.com/gc/hnttdysjd_1_md.m3u8
+#EXTINF:-1 group-title="街道",济南章丘三涧溪村
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="街道",泰安泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 group-title="街道",泰安泰山天街
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="街道",泰安泰山大观峰
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 group-title="街道",泰安泰山望人松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 group-title="街道",郑州千禧广场
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 group-title="街道",洛阳白云山
+https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8
+#EXTINF:-1 group-title="街道",洛阳新安万山湖
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="街道",商丘古城
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="街道",商丘永城市日月湖景区
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 group-title="街道",焦作红石峡
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="街道",南阳方城德云山景区
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 group-title="街道",信阳西九华山
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="街道",信阳固始县秀水公园
+https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
+#EXTINF:-1 group-title="街道",信阳何家寨房车露营基地
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="街道",信阳狮河港镇文新茶村
+https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
+#EXTINF:-1 group-title="街道",安阳太行天路
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="街道",安阳万泉湖景区
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="街道",安阳太行大峡谷
+https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8
+#EXTINF:-1 group-title="街道",平顶山鲁山县画眉谷景区
+https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
+#EXTINF:-1 group-title="街道",武汉黄鹤楼一
+https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1_md.m3u8
+#EXTINF:-1 group-title="街道",武汉黄鹤楼二
+https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 group-title="街道",成都春熙路太古里
+https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 group-title="街道",成都东安湖体育公园
+https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 group-title="街道",成都安顺廊桥
+https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
+#EXTINF:-1 group-title="街道",成都天府熊猫塔
+https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 group-title="街道",成都环球中心
+https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
+#EXTINF:-1 group-title="街道",绵阳北川县生活广场
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="街道",绵阳羌族自治县巴拿恰
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 group-title="街道",乐山峨眉山普贤菩萨
+https://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
+#EXTINF:-1 group-title="街道",乐山峨眉山云海日出
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="街道",阿坝九曲黄河第一湾
+https://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 group-title="街道",阿坝黄龙五彩池
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 group-title="街道",甘孜石渠县
+https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
+#EXTINF:-1 group-title="街道",凉山邛海景区
+https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 group-title="街道",郴州仰天湖
+https://gctxyc.liveplay.myqcloud.com/gc/cntv451-zbzg_1_md.m3u8
+#EXTINF:-1 group-title="街道",郴州沙洲瑶族村
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 group-title="街道",张家界云天渡
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 group-title="街道",张家界迷魂台
+https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 group-title="街道",张家界宝峰湖
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="街道",张家界天门山天门洞
+https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 group-title="街道",张家界天门山西线玻璃栈道一
+https://gctxyc.liveplay.myqcloud.com/gc/fcw01_1_md.m3u8
+#EXTINF:-1 group-title="街道",张家界天门山西线玻璃栈道二
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 group-title="街道",张家界武陵源黄石寨一
+https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1_md.m3u8
+#EXTINF:-1 group-title="街道",张家界武陵源黄石寨二
+https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 group-title="街道",湘西矮寨大桥
+https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
+#EXTINF:-1 group-title="街道",伊犁巩留县蝶湖公园
+https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 group-title="街道",喀什岳普湖县达瓦昆景区
+https://gcalic.v.myalicdn.com/gc/cntv524-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="街道",阜康天山天池
+https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 group-title="街道",阜康天山天池马牙山
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="街道",门源仙米国家森林公园
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 group-title="街道",海北祁连山
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 group-title="街道",海北打坂山
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="街道",日喀则珠穆朗玛峰
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 group-title="街道",迪庆独克宗古城
+https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+#EXTINF:-1 group-title="街道",迪庆白马雪山
+https://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+#EXTINF:-1 group-title="街道",红河层子山
+https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 group-title="街道",红河建水双龙桥
+https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
+#EXTINF:-1 group-title="街道",保山隆阳区拦河坝水库
+https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 group-title="街道",贵阳甲秀楼
+https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
+#EXTINF:-1 group-title="街道",安顺黄果树瀑布
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8
+#EXTINF:-1 group-title="街道",黔南州建中镇茶旅小镇
+https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 group-title="街道",广州增城丝苗米种植基地
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="街道",珠海大剧院
+https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 group-title="街道",珠海情侣路海滨公园
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 group-title="街道",珠海港珠澳大桥风帆塔
+https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 group-title="街道",中山幻彩摩天轮
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="街道",汕头市小公园中山纪念亭
+https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+#EXTINF:-1 group-title="街道",韶关车八岭国家级自然保护区
+https://gctxyc.liveplay.myqcloud.com/gc/ztx_1_md.m3u8
+#EXTINF:-1 group-title="街道",汕尾金町湾
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 group-title="街道",保亭七仙岭温泉国家森林公园
+https://gcalic.v.myalicdn.com/gc/cntv549-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="街道",热带雨林国家公园五指山片区
+https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 group-title="街道",重庆李子坝站轻轨
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
