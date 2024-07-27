@@ -14,7 +14,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/1.m3u8?ch
 #EXTINF:-1 group-title="通用",苏州卫视(4k)
 http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="通用",动物星球
-http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="通用",探索(Discovery Asia)
 http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 #EXTINF:-1 group-title="通用",凤凰中文  
@@ -26,7 +26,7 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="体育",CCTV5
 http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141993662&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9d32fa20cc6a&FvSeid=88fe5578aeee6593&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18135&Fsv_chan_hls_se_idx=58&Fsv_TBt=8468304&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="体育",CCTV5+
-https://ctrl.laotv.la/live/cctv5+/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="体育",奥林匹克
 http://221.4.143.70:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142879377&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea41e722a0a58&FvSeid=88fe5578aef71f1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9859&Fsv_chan_hls_se_idx=52&Fsv_TBt=8468280&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-16-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="通用",眼视综合(EYETV)
@@ -52,7 +52,7 @@ http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA680511436805114
 #EXTINF:-1 group-title="电影",龙华电影
 http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 #EXTINF:-1 group-title="电影",东森影视(EBC Foreign Movie)
-https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+https://ctrl.laotv.la/sc/DongsenForeignMovie/index.m3u8
 #EXTINF:-1 group-title="电影",东森电影(EBC Movie) 
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 group-title="电影",影院电影(CINEMAX)
