@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixChineseTransp.png",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv
+http://www.lebaobei.top:6868/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixInfoNewsTransp.png",凤凰卫视咨询
-http://61.221.215.25:8800/hls/47/index.m3u8
+http://www.lebaobei.top:6868/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvOneTransp.png",CCTV1
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvTwoTransp.png",CCTV2
