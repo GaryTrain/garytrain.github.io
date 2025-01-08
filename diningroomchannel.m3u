@@ -16,11 +16,11 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000002000027731/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/discovery.png",求索记录
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/discoveryCivilization.png",求索生活
-
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/discoveryLife.png",求索动物
-
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/discoveryScienceTransp.png",求索科学
-
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/discoveryAsiaTransp.png",求索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/animalPlanet.png",动物星球
@@ -28,47 +28,49 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ClassicFilm.png",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvSixTransp.png",CCTV6
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=2025
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/1905DomesticFilm.png",1905国产电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/blackBerryMovie.png",黑莓电影
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/chcFamilyFilmTransp.png",CHC综合电影
-https://www.furymax.top:85/rtp/239.69.1.243:11100
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/CHCFamilyFilmTransp.png",CHC综合电影
+http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/CHCActionFilmTransp.png",CHC动作电影
-https://www.furymax.top:85/rtp/239.69.1.242:11094
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/townFilmTransp.png",都市剧场
-https://[2409:8087:74d6:22::7]:6410/000000001000PLTV/88888888/224/3221226176/index.m3u8?
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/chineseFilm.png",中国电影
-https://171.108.239.127:8181/tsfile/live/1013_1.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tianYingMovieTransp.png",天映电影
-https://171.108.239.127:8181/tsfile/live/1009_1.m3u8
+http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/CHCActionFilmTransp.png",CHC影迷电影
+http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/townFilmTransp.png",NewTV都市剧场
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NewTVSeries.png",NewTV超级电视剧
-https://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NewTVMovie.png",NewTV超级电影
-https://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=007
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/comedyTransp.png",NewTV欢笑剧场
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NewTVHorro.png",NewTV惊悚悬疑
-https://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8  
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/newTVShow.png",NewTV精品大剧
-https://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=007
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/newTVShow.png",NewTV动作电影
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=007
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NewTVWarMovie.png",NewTV军旅剧场
-https://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=007
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tianYingMovieTransp.png",天映电影
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv055
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcTVTransp.png",东森超视(EBC HD)
-https://171.108.239.127:8181/tsfile/live/1023_1.m3u8
+
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcMovieTransp.png",东森电影(EBC Movie)
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000037
+
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/lsTimeTransp.png",龙祥电影
-https://171.108.239.127:8181/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/comedyTransp.png",欢笑剧场
-https://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/8/3221226203/index.m3u8?HlsProfileId=
+
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/newTVCommedy.png",NewTV欢乐剧场
-https://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
+
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/nineteen.png",欧美影院
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=7185203501769528108
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/AMCMovies.png",美国经典电影(AMC)
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcForeignFilmTransp.png",东森外国电影(EBC Foreign Movie)
-http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/nineteen.png",1905外国电影
 https://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/redBull.png",红牛(720p)
