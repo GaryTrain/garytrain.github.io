@@ -5,7 +5,7 @@ http://171.213.144.131:3333/udp/239.93.42.55:5140
 http://nas.ikun-giegie.icu:7088/rtp/239.93.42.55:5140
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tainyuangoTransp.png",天元三
 http://120.6.140.70:8889/rtp/239.253.93.211:6389
-天元四
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tainyuangoTransp.png",天元四
 http://120.76.248.139/live/bfgd/4200000633.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvFiveTransp.png",CCTV5
 http://153.0.169.80:888/hls/5/index.m3u8
