@@ -5,42 +5,38 @@ http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixChineseTransp.png",凤凰中文低分辨率
 http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NationalGeographicTransp.png",国家地理野生
-http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/DiscoveryAsiaTransp.png",求索亚洲
-http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tainyuangoTransp.png",天元一
+#EXTINF:-1,天元一
 http://171.213.144.131:3333/udp/239.93.42.55:5140
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tainyuangoTransp.png",天元二
+#EXTINF:-1,天元二
 http://nas.ikun-giegie.icu:7088/rtp/239.93.42.55:5140
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tainyuangoTransp.png",天元三
+#EXTINF:-1,天元三
 http://120.6.140.70:8889/rtp/239.253.93.211:6389
-天元四
+#EXTINF:-1,天元四
 http://120.76.248.139/live/bfgd/4200000633.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvFiveTransp.png",CCTV5
+#EXTINF:-1,CCTV5
 http://153.0.169.80:888/hls/5/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvFive.png",CCTV5
+#EXTINF:-1,CCTV5
 http://121.30.137.26:8081/hls/5/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvFivePlusTransp.png",CCTV5+
+#EXTINF:-1,CCTV5+
 http://121.30.137.26:8081/hls/18/index.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvFivePlus.png",CCTV5+
+#EXTINF:-1,CCTV5+
 https://edge.886456.xyz/live/cctv5plus.m3u8?token=to8mdLPdm-LvgvLrZ7Qxgg&expires=1745648321
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/cctvOneTransp.png",CCTV1
-http://120.76.248.139/live/bfgd/4200000488.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/heNan.png",河南卫视
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=2025
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/heNanNews.png",河南新闻
 http://www.cdnstv.com:6398/hls/1114/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/kaifengNews.png",开封新闻
 http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
-#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/discoveryAsiaTransp.png",求索亚洲
-http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/classicMovieTransp.png",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/1905DomesticFilm.png",1905国产电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/jingTianMovieTransp.png",靖天映画
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv055
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/NationalGeographicTransp.png",国家地理野生
+http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/DiscoveryAsiaTransp.png",求索亚洲
+http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/tianYingMovieTransp.png",天映频道
 http://50.7.234.10:8278/celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/ebcMovieTransp.png",东森电影(EBC Movie)
