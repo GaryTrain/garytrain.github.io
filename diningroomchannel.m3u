@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixChineseTransp.png",凤凰中文1
 http://rihou.cc:555/tv/[SX]凤凰中文
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixChineseTransp.png",凤凰中文2
-https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+https://edge.404406.xyz/live/phoenix_chinese.m3u8?token=TOq2R92-puPCjooe21_3oQ==&expires=1772174968
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixInfoNewsTransp.png",凤凰资讯1
-http://rihou.cc:555/tv/[SX]凤凰资讯
+http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 tvg-logo="storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/media/LOGO/phoenixInfoNewsTransp.png",凤凰资讯2
-https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+https://edge.404406.xyz/live/phoenix_infonews.m3u8?token=-Qm6BJHS0nbBu7nm-9bJKA==&expires=1772175297
 #EXTINF:-1,天元一
 http://171.213.144.131:3333/udp/239.93.42.55:5140
 #EXTINF:-1,天元二
